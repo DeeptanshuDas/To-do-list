@@ -1,0 +1,24 @@
+body{
+    image-orientation: from-image;
+  background: fixed;
+  background-image: url("https://media.istockphoto.com/id/592031250/photo/milky-way-and-pink-light-at-mountains-night-colorful-landscape.jpg?b=1&s=170667a&w=0&k=20&c=V1ZAoikgI43xh-_K4iX0G9VpFdLPYJvS1pXgmgEaXPc=");
+    background-repeat: no-repeat;
+    background-size:100% 100% ;
+}
+h1{
+text-size-adjust: 5px;
+text-align: center;
+text-shadow: 10px;
+color: rgb(233, 137, 27);
+}
+ol{
+    text-size-adjust: 50px;
+    text-align: left;
+color: rgb(155, 135, 135);
+text-decoration: rgb(102, 225, 225);
+}
+li{
+    text-decoration: dotted;
+    text-shadow: 50px;
+ text-decoration:rgb(130, 201, 201) ;
+}
